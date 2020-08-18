@@ -13,7 +13,7 @@ def test_prueba():
 def  test_largo_palabra():
     a = Ahorcado
     actual = a.largo_palabra(a, 'Gato')
-    expected = 4
+    expected = 6
     assert expected == actual
 
 #Pruebo guia 
